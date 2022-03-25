@@ -8,6 +8,8 @@ Website: https://sites.google.com/view/unblock69/home
 
 ➼ Changed Link
 
+➼ Added Incog Dev (Proxy)
+
 ➼ Added Game Boy Advanced Emulator
 
 ➼ Added Bugs Report Option
